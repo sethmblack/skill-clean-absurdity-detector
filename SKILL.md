@@ -3,8 +3,9 @@ name: clean-absurdity-detector
 description: Identify and articulate the inherent contradictions and weirdness in everyday experiences without profanity or crude humor, finding comedy through precision observation rather than transgression. B...
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3606
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - absurdist
 - callbacks
